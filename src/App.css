@@ -1,0 +1,25 @@
+.background{
+  height: 250px;
+  width: 300px;
+}
+
+.clock{
+  padding-top: 145px;
+
+  width: fit-content;
+  padding-left: 30px;
+}
+.FlipClock .flipUnitContainer .ContainerTitle {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  top: -15px;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: rgb(0, 0, 0);
+}   
+
+.FlipClock .divider {
+
+  color: white;
+}
