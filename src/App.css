@@ -1,25 +1,16 @@
-.background{
+.MalibanfirstImgEng{
   height: 250px;
   width: 300px;
+  background-image: url('./asset/300\ x\ 250\ slide\ 2\ Sin.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
-.clock{
-  padding-top: 145px;
+
+.clockMaliban{
+  padding-top: 185px;
 
   width: fit-content;
   padding-left: 30px;
-}
-.FlipClock .flipUnitContainer .ContainerTitle {
-  position: absolute;
-  text-align: center;
-  width: 100%;
-  top: -15px;
-  font-size: 10px;
-  text-transform: uppercase;
-  color: rgb(0, 0, 0);
-}   
-
-.FlipClock .divider {
-
-  color: white;
 }
